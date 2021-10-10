@@ -1,0 +1,5 @@
+Ivanov 18000
+Petrov 21000
+Sidorov 15000
+Sititsyn 48000
+Borisov 11000
